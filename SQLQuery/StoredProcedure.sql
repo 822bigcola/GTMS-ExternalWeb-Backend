@@ -196,8 +196,8 @@ select * from tblBuchungsdaten
 
 DELETE FROM tblBuchungsdaten;
 
-select * from tblLagerPlatz
 
+go
 CREATE PROCEDURE sp_GetArtikeltoGoodsReceipts
 AS
 BEGIN

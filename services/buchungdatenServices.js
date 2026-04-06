@@ -11,7 +11,7 @@ const getArtikelService = async () => {
     Artikel: row.Artikel,
     Condition: row.Artikelzustand,
     Lagerort: row.Lagerort,
-    Kostentraeger: row.Kostentraeger,
+    Kostengruppe: row.Kostengruppe,
   }));
 };
 
